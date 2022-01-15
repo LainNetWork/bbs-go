@@ -1385,14 +1385,6 @@
     consola "^2.15.3"
     defu "^5.0.0"
 
-"@nuxtjs/color-mode@^2.1.1":
-  version "2.1.1"
-  resolved "https://registry.npmmirror.com/@nuxtjs/color-mode/download/@nuxtjs/color-mode-2.1.1.tgz#374f995f56a8fe27c6263ab865a034a50e90c1ea"
-  integrity sha1-N0+ZX1ao/ifGJjq4ZaA0pQ6Qweo=
-  dependencies:
-    defu "^5.0.0"
-    lodash.template "^4.5.0"
-
 "@nuxtjs/eslint-config@^6.0.1":
   version "6.0.1"
   resolved "https://registry.npmmirror.com/@nuxtjs/eslint-config/download/@nuxtjs/eslint-config-6.0.1.tgz#305450a71e362c26f99b3a7130be960015a96c9b"
@@ -2490,11 +2482,6 @@ builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.npm.taobao.org/builtin-status-codes/download/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
-
-bulma-prefers-dark@^0.1.0-beta.1:
-  version "0.1.0-beta.1"
-  resolved "https://registry.npmmirror.com/bulma-prefers-dark/download/bulma-prefers-dark-0.1.0-beta.1.tgz#074aa71899f389a0137dd3753f0d89e96ab1e59b"
-  integrity sha1-B0qnGJnziaATfdN1Pw2J6Wqx5Zs=
 
 bulma@^0.9.3:
   version "0.9.3"
@@ -4880,9 +4867,9 @@ flush-write-stream@^1.0.0:
     readable-stream "^2.3.6"
 
 follow-redirects@^1.0.0, follow-redirects@^1.14.0:
-  version "1.14.5"
-  resolved "https://registry.npmmirror.com/follow-redirects/download/follow-redirects-1.14.5.tgz#f09a5848981d3c772b5392309778523f8d85c381"
-  integrity sha1-8JpYSJgdPHcrU5Iwl3hSP42Fw4E=
+  version "1.14.7"
+  resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.14.7.tgz#2004c02eb9436eee9a21446a6477debf17e81685"
+  integrity sha512-+hbxoLbFMbRKDwohX8GkTataGqO6Jb7jGwpAlwgy2bIz25XtRm7KEzJM76R1WiNT5SwZkX4Y75SwBolkpmE7iQ==
 
 for-in@^1.0.2:
   version "1.0.2"
